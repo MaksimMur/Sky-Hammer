@@ -1,0 +1,609 @@
+fileFormatVersion: 2
+guid: a8cd2630eac944e42b51eae5f0933c86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8108754769007695831
+    second: health
+  - first:
+      213: -1330186817251497352
+    second: bonuses_1
+  - first:
+      213: 8559582877609260472
+    second: a1_SpawnEnemy
+  - first:
+      213: 3365054754105204980
+    second: bonuses_3
+  - first:
+      213: 4725859000253834406
+    second: g1_starRain
+  - first:
+      213: -657721706616224908
+    second: h1_shield
+  - first:
+      213: -6442931279210552144
+    second: star
+  - first:
+      213: 3081361894126713623
+    second: a2_MinusHealth
+  - first:
+      213: 9127673316737869764
+    second: g2_destroyCannon
+  - first:
+      213: 5038308861826161539
+    second: h2_health
+  - first:
+      213: 1191118109116675655
+    second: magnite_Attribute
+  - first:
+      213: 5706911364612444642
+    second: slowdown_Attribute
+  - first:
+      213: 3457557626161657858
+    second: x2_Attribute
+  - first:
+      213: 1094850049378048274
+    second: fastSpawn_Attribute
+  - first:
+      213: -4976022679137800650
+    second: a3_slowdown
+  - first:
+      213: 3414025871870468773
+    second: g3_x2
+  - first:
+      213: 5675746381521261187
+    second: h3_magnite
+  - first:
+      213: 6542285491620635123
+    second: magnite
+  - first:
+      213: -8917349904963926409
+    second: shield
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: health
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 5054
+        width: 1375
+        height: 1338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d755791085188070800000000000000
+      internalID: 8108754769007695831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonuses_1
+      rect:
+        serializedVersion: 2
+        x: 5894
+        y: 6860
+        width: 300
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a21d8232a3a8de0800000000000000
+      internalID: -1330186817251497352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a1_SpawnEnemy
+      rect:
+        serializedVersion: 2
+        x: 4531
+        y: 5856
+        width: 999
+        height: 1003
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b57a6dc64fb9c670800000000000000
+      internalID: 8559582877609260472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonuses_3
+      rect:
+        serializedVersion: 2
+        x: 5737
+        y: 6493
+        width: 16
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f02e24587313be20800000000000000
+      internalID: 3365054754105204980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g1_starRain
+      rect:
+        serializedVersion: 2
+        x: 5755
+        y: 5849
+        width: 995
+        height: 1010
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a466b8d8bf959140800000000000000
+      internalID: 4725859000253834406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h1_shield
+      rect:
+        serializedVersion: 2
+        x: 7111
+        y: 5846
+        width: 994
+        height: 1001
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4738314b79d4fd6f0800000000000000
+      internalID: -657721706616224908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5254
+        width: 969
+        height: 939
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4e66e332c1696a0800000000000000
+      internalID: -6442931279210552144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a2_MinusHealth
+      rect:
+        serializedVersion: 2
+        x: 4531
+        y: 4745
+        width: 1003
+        height: 1003
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bf8d3215233ca20800000000000000
+      internalID: 3081361894126713623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g2_destroyCannon
+      rect:
+        serializedVersion: 2
+        x: 5759
+        y: 4747
+        width: 999
+        height: 1001
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7e8f565820cae70800000000000000
+      internalID: 9127673316737869764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h2_health
+      rect:
+        serializedVersion: 2
+        x: 7111
+        y: 4747
+        width: 999
+        height: 1001
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bd9d9373babe540800000000000000
+      internalID: 5038308861826161539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnite_Attribute
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 3858
+        width: 609
+        height: 682
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7463f630c93b78010800000000000000
+      internalID: 1191118109116675655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slowdown_Attribute
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 3922
+        width: 617
+        height: 692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e15d5c46a5033f40800000000000000
+      internalID: 5706911364612444642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x2_Attribute
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 4051
+        width: 651
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208fec19756bbff20800000000000000
+      internalID: 3457557626161657858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fastSpawn_Attribute
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 3974
+        width: 654
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2195f73b150b13f00800000000000000
+      internalID: 1094850049378048274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a3_slowdown
+      rect:
+        serializedVersion: 2
+        x: 4531
+        y: 3633
+        width: 1007
+        height: 1007
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e24b7ccbd91fab0800000000000000
+      internalID: -4976022679137800650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g3_x2
+      rect:
+        serializedVersion: 2
+        x: 5783
+        y: 3633
+        width: 1003
+        height: 1003
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a225d2317e016f20800000000000000
+      internalID: 3414025871870468773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: h3_magnite
+      rect:
+        serializedVersion: 2
+        x: 7105
+        y: 3639
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38298c9334d44ce40800000000000000
+      internalID: 5675746381521261187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnite
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 0
+        width: 3590
+        height: 3573
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f16d3bfdfddaca50800000000000000
+      internalID: 6542285491620635123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shield
+      rect:
+        serializedVersion: 2
+        x: 5618
+        y: 548
+        width: 2598
+        height: 2604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77603c0f1853f3480800000000000000
+      internalID: -8917349904963926409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      health: 8108754769007695831
+      x2_Attribute: 3457557626161657858
+      h1_shield: -657721706616224908
+      a1_SpawnEnemy: 8559582877609260472
+      a2_MinusHealth: 3081361894126713623
+      bonuses_1: -1330186817251497352
+      slowdown_Attribute: 5706911364612444642
+      bonuses_3: 3365054754105204980
+      g2_destroyCannon: 9127673316737869764
+      star: -6442931279210552144
+      fastSpawn_Attribute: 1094850049378048274
+      a3_slowdown: -4976022679137800650
+      shield: -8917349904963926409
+      magnite_Attribute: 1191118109116675655
+      g3_x2: 3414025871870468773
+      h2_health: 5038308861826161539
+      g1_starRain: 4725859000253834406
+      h3_magnite: 5675746381521261187
+      magnite: 6542285491620635123
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

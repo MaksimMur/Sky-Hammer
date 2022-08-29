@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: fba15731eabf71448b80de59875c885e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trail7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 4771
+        width: 465
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850b03c98289e504c899fa592a7a7d7b
+      internalID: -1464904370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trail6
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 4744
+        width: 290
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7e381ee73434547a22be694e4d3327
+      internalID: 299155365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trail6_shop
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 3756
+        width: 295
+        height: 1357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5286cdf63e4df764ca5ea9e6abcac307
+      internalID: 334883332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trail1
+      rect:
+        serializedVersion: 2
+        x: 4881
+        y: 4939
+        width: 399
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48df154a908a5b4397d576f3a5daf46
+      internalID: 207294679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel
+      rect:
+        serializedVersion: 2
+        x: 8859
+        y: 0
+        width: 1360
+        height: 4743
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b29e4511a9f000478baed263584f55c
+      internalID: -194602312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trails 1_13
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 4817
+        width: 9
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfcfc66825f5bf46a744ec016df6b62
+      internalID: -1819083896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trail4
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 4644
+        width: 389
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37acc61ac4c6c834c8cc34ea47f81a9d
+      internalID: 2065483459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trail2
+      rect:
+        serializedVersion: 2
+        x: 5955
+        y: 4305
+        width: 424
+        height: 881
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac000457bc108314495060b1ad6e40e6
+      internalID: -2118281417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trails 1_26
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 4437
+        width: 9
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0098e99ff5e7caf41bae94ee9f297315
+      internalID: -876047229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trail5
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 4097
+        width: 312
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e0c3fbc90e87d4e87e7d27512a5730
+      internalID: 1976469697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trails 1_38
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 4058
+        width: 9
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fb5afcdb036ad4d8b72db196361a60
+      internalID: 920023797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trail7_shop
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3642
+        width: 466
+        height: 1516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec5611987cb1634491d955c99dcfb8c
+      internalID: 1219060686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trail5_shop
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 3572
+        width: 633
+        height: 1585
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0a6f1569f6f5646ae2fe452b0c52d3
+      internalID: 433172030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trails 1_44
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 3679
+        width: 9
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d979f775869f5b745816a6981894a558
+      internalID: 1683929977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trail4_shop
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 3498
+        width: 769
+        height: 1887
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f980c890c02dd4181946616f056048
+      internalID: 446905378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trail3_shop
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 3486
+        width: 861
+        height: 1761
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10007edd016356a4fbeb7a1804cbd068
+      internalID: 449515342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trail2_shop
+      rect:
+        serializedVersion: 2
+        x: 5953
+        y: 3496
+        width: 901
+        height: 1775
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7560e5b3ad3443a49bfd099bf8aa7e87
+      internalID: -1274227461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trails 1_51
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 3569
+        width: 49
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70d7d7e8c519a94ea9285895e3cdc8e
+      internalID: 196980786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trail1_shop
+      rect:
+        serializedVersion: 2
+        x: 4856
+        y: 3421
+        width: 834
+        height: 1798
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d03217c9c85ee24f829bd5de50563ef
+      internalID: -1129643503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trail3
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 4909
+        width: 676
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693ccc49c0328dc478a2451d8edce326
+      internalID: -912556686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      trails 1_10: 2048541735
+      trails 1_25: 1603019027
+      trail3_shop: 449515342
+      trails 1_31: 1551990136
+      trail1: 207294679
+      trails 1_11: -1170915469
+      trails 1_4: -946756917
+      trails 1_48: -2110615584
+      trails 1_29: 1459954122
+      trails 1_44: 1683929977
+      trails 1_27: -772548604
+      trails 1_37: 378572871
+      trails 1_3: -1653807020
+      trail3: 1166081732
+      trails 1_41: 1281556638
+      trail4_shop: 446905378
+      trails 1_19: -1461181737
+      trails 1_35: -1435357168
+      trails 1_26: -876047229
+      trails 1_40: -1208531299
+      trail7: -1464904370
+      trail5: 1976469697
+      trails 1_2: 64283460
+      trails 1_16: 1191251182
+      trail1_shop: -1129643503
+      trails 1_30: -969436022
+      trail2_shop: -1274227461
+      trails 1_50: -803517117
+      trail6: 299155365
+      trails 1_5: 127972171
+      trails 1_32: -1313325250
+      trails 1_34: -2005894159
+      trails 1_47: 648246176
+      trails 1_38: 920023797
+      trails 1_17: 194626718
+      trails 1_21: 2826605
+      trails 1_6: -840714742
+      trails 1_22: -1260518081
+      trails 1_18: -706360874
+      panel: -194602312
+      trails 1_15: -1738340576
+      trails 1_23: -1577183081
+      trails 1_51: 196980786
+      trails 1_8: 1353303934
+      trail5_shop: 433172030
+      trails 1_13: -1819083896
+      trails 1_39: -689311901
+      trail4: 2065483459
+      trail6_shop: 334883332
+      trail7_shop: 1219060686
+      trails 1_28: -1170425781
+      trail2: -2118281417
+      trails 1_20: -1177738404
+      trails 1_36: -1038525023
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
