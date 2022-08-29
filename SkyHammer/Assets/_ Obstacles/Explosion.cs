@@ -7,7 +7,7 @@ public class Explosion : MonoBehaviour
     [SerializeField] private GameObject explosionPrefab;
     [SerializeField] private float _force;
     [SerializeField] private float _radius;
-    public void Expolode()
+    public void Expolode(bool makeObjectDisable=false)
     {
         Collider[] overlappedColliders = Physics.OverlapSphere(transform.position, _radius);
 
@@ -22,7 +22,8 @@ public class Explosion : MonoBehaviour
         }
         GameObject go = Instantiate<GameObject>(explosionPrefab);
         go.transform.position = this.transform.position;
-        Destroy(this.gameObject);
+        if (!makeObjectDisable) Destroy(this.gameObject);
+        else this.gameObject.SetActive(false);
 
     }
     private void OnDrawGizmos()

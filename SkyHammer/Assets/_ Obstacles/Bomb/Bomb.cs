@@ -22,11 +22,6 @@ public class Bomb : MonoBehaviour
         _tCounter.transform.SetParent(_anchor.transform, false);
         _tCounter.transform.position = new Vector3(transform.position.x + 1.5f, transform.position.y, -1);
     }
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
 
     // Update is called once per frame
     void FixedUpdate()

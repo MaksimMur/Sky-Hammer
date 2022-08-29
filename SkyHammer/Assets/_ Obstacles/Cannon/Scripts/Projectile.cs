@@ -6,19 +6,17 @@ public class Projectile : MonoBehaviour
 {
     [SerializeField] private float _damage=5;
     private Explosion exp;
-
     void Awake()
     {
         exp=GetComponent<Explosion>();
     }
-
     private void OnCollisionEnter(Collision collision)
     {
         if (collision.gameObject.tag == "Hammer") {
             Shield s = Hammer.S.GetComponentInChildren<Shield>();
             if (s != null)
             {
-                Destroy(s.gameObject);
+                s.gameObject.SetActive(false);
             }
             else
             {
@@ -26,6 +24,7 @@ public class Projectile : MonoBehaviour
                 UIManager.TakeHP();
             }
         }
-        exp.Expolode();
+        exp.Expolode(true);
+        this.gameObject.SetActive(false);
     }
 }
